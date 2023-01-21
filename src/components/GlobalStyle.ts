@@ -30,7 +30,7 @@ export const GlobalStyle = createGlobalStyle`
   }
 }
 
-  a {
+a {
   text-decoration: none;
 }
 

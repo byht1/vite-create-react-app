@@ -1,12 +1,14 @@
 # Vite Create React App
 
-<div style="text-align: center; matgin: 0 auro;">
-    <a href="https://vitejs.dev/"  target="_blank" rel="noreferrer">
-        <img  alt="firebase" height="100px" style="padding-right:10px;" src="./assets/vite.svg"/>
-    </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img  alt="firebase" height="100px" style="padding-right:10px;" src="./assets/react.svg"/>
-    </a>
+<div style="display: flex;">
+    <div style="margin: 0 auto;">
+      <a href="https://vitejs.dev/"  target="_blank" rel="noreferrer">
+          <img  alt="firebase" height="100px" style="padding-right:10px;" src="./assets/vite.svg"/>
+      </a>
+      <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+          <img  alt="firebase" height="100px" style="padding-right:10px;" src="./assets/react.svg"/>
+      </a>
+    </div>
 </div>
 
 ## Клонування
