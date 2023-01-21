@@ -76,7 +76,7 @@
 </BrowserRouter>
 ```
 
-В файлк `vite.config.ts`
+В файл `vite.config.ts`
 
 ```ts
 export default defineConfig({
