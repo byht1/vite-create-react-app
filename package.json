@@ -4,7 +4,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite --host",
-    "build": "tsc && npm run lint:build && rm -rf ./dist && vite build",
+    "build": "tsc && npm run lint:build && rm -rf ./dist && vite build --base=/vite-create-react-app/",
     "preview": "vite preview",
     "lint": "eslint src/**/*.{js,jsx,ts,tsx,json}",
     "lint:fix": "eslint --fix 'src/**/*.{js,jsx,ts,tsx,json}'",
