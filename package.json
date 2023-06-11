@@ -9,8 +9,8 @@
     "lint": "eslint src/**/*.{js,jsx,ts,tsx,json}",
     "lint:fix": "eslint --fix 'src/**/*.{js,jsx,ts,tsx,json}'",
     "lint:build": "npm run lint -- --max-warnings 0",
-    "component": "generate-react component",
-    "page": "generate-react component --type=page"
+    "c": "generate-react component",
+    "p": "generate-react component --type=page"
   },
   "dependencies": {
     "normalize.css": "^8.0.1",
